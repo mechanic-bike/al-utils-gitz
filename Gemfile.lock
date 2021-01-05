@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    al-utils (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  al-utils!
+
+BUNDLED WITH
+   1.14.6
